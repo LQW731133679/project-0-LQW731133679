@@ -27,24 +27,6 @@
             <input type="submit" value="百度一下"
             style="width:150px;height:40px;background-color: #4E6EF2;border: none;color: white;border-radius: 10px"/>
         </form></div>
-</head>
-<body style="margin:0 auto">
-	<div class="div_head" >
-			<div class="div_head1">
-					<div class="div_head2" ><font size="1" ><ins>新闻 </ins></font></div>               
-					<div class="div_head2" ><font size="1" ><ins>hao123</ins> </font></ins></div> 
-					<div class="div_head2" ><font size="1" ><ins>地图 </ins></font></div> 
-					<div class="div_head2" ><font size="1" ><ins>资源 </ins></font></div> 
-					<div class="div_head2" ><font size="1" ><ins>视频 </ins></font></div> 
-					<div class="div_head2" ><font size="1" ><ins>贴吧 </ins></font></div> 
-					<div class="div_head2" ><font size="1" ><ins>学术 </ins></font></div> 
-					<div class="div_head2" ><font size="1" ><ins>登录 </ins></font></div> 
-					<div class="div_head2" ><font size="1" ><ins>设置 </ins></font></div>
-					<div class="div_head2" style="width:70px;background-color:#38f" ><font size="1" color="white" >更多产品</font></div> 
-			</div>
-	</div>
- 
-	
-	
-</body>
+        
+    </body>
 </html>
